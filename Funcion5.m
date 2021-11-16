@@ -1,11 +1,11 @@
 % octave.scriptFuncio5
 % Escuela: Tecnologico de Estudios Superiores de Jilotepec
-% Especialidad: Ingeniería en Sistemas Computacionales
+% Especialidad: IngenierÃ­a en Sistemas Computacionales
 % Titulo:Funcion Inyectiba, Sobreyectiva y Biyectiva 
-% Descripción:Demostar Funciones 
-% Autor:Julieta Sánchez Mendoza 
+% DescripciÃ³n:Demostar Funciones 
+% Autor:Julieta SÃ¡nchez Mendoza 
 % Fecha:14-11-2021
-% Versión: 1
+% VersiÃ³n: 1
 % Notas:Requierepaquete symbolic
 % Funcion 5
 
